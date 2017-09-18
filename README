@@ -1,3 +1,5 @@
+Uses beautifulsoup as as a html crawler
+
 Short script that tries to get keywords to describe an input URL
 
 Usage is python crawler.py "<url>"
