@@ -1,0 +1,5 @@
+Short script that tries to get keywords to describe an input URL
+
+Usage is python crawler.py "<url>"
+
+Surrounding the URL in quotes is recommended
